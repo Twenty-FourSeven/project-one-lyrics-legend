@@ -17,7 +17,7 @@ Whitney Wishart, GitHub: whitneywishart
 <br/><br/>
 
 ## Deployed URL
-https://whitneywishart.github.io/project-one-lyrics-legend
+https://Twenty-FourSeven.github.io/project-one-lyrics-legend
 <br/><br/>
 
 ## Screenshot
